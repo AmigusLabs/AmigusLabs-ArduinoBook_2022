@@ -1,9 +1,10 @@
 # AmigusLabs-ArduinoBook_2022
 Manual Arduino 2022 (Esp/Gal/Eng)
 
-Realizado para Amigus Labs Arduino Week 2022
+Realizado en / Made in:
+Amigus Labs - Arduino Week 2022
 
-Descargalo en / Download
+Descárgao en / Descargalo en / Download
 
 Galego
 Versión imprenta: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/Arduino_gal.pdf
