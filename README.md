@@ -5,7 +5,7 @@ Realizado en / Made in:
 **Amigus Labs - Arduino Week 2022**
 
 
-Descárgao en / Descargalo en / Download
+Descárgao en / Descárgalo en / Download
 
 
 **Galego**
@@ -28,9 +28,9 @@ Sketch: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/sket
 
 **English**
 
-Versión imprenta: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/Arduino_eng.pdf
+Printable ersion: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/Arduino_eng.pdf
 
-Versión online: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/Arduino_eng_web.pdf
+Online version: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/Arduino_eng_web.pdf
 
 Sketch: https://github.com/AmigusLabs/AmigusLabs-ArduinoBook_2022/blob/main/sketch_eng.zip
 
